@@ -1,0 +1,34 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: 'Be Vietnam Pro', sans-serif;
+  font-family: 'Overpass', sans-serif;
+}
+
+.container {
+  display: block;
+  width: 250px;
+  background-color: white;
+  padding: 10px 13px;
+  border-radius: 15px;
+  box-shadow: 2cap black;
+  margin-inline: auto;
+  margin-top: 10vw;
+}
+
+img {
+  height: 250px;
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 20px;
+  text-align: center;
+  color: hsl(218, 44%, 22%);
+  font-weight: 700; 
+}
+
+p {
+  font-size: 15px;
+  text-align: center;
+  color: hsl(220, 15%, 55%);
+}
